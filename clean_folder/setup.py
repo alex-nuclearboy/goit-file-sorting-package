@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='1.0',
     description='A Python utility for organizing and sorting files into categories based on file extensions',
-    url='https://github.com/alex-nuclearboy/goit-python-homeworks/tree/main/goit-python-core-hw-07',
+    url='https://github.com/alex-nuclearboy/goit-file-sorting-package',
     author='Aleksander Khreptak',
     author_email='alex.nuclearboy@gmail.com',
     license='MIT',
