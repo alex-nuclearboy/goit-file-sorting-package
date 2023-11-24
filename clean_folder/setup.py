@@ -1,7 +1,7 @@
 from setuptools import setup, find_namespace_packages
 
 setup(
-    name='clean_folder',
+    name='clean-folder',
     version='1.0',
     description='A Python utility for organizing and sorting files into categories based on file extensions',
     url='https://github.com/alex-nuclearboy/goit-file-sorting-package',
@@ -12,7 +12,7 @@ setup(
     install_requires=[],
     entry_points={'console_scripts':
         [
-            'clean_folder=clean_folder.clean:console_script',
+            'clean-folder=clean_folder.clean:console_script',
     	]
     },
 )
