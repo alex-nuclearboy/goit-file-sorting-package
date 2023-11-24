@@ -20,4 +20,4 @@ A key feature of this script is its file renaming capability. The `normalize` fu
     # Install the package using pip:
     pip install .
     # Run the script
-    clean_folder <path_to_target_directory>
+    clean-folder <path_to_target_directory>
